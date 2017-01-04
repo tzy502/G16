@@ -1,0 +1,50 @@
+Received: from m13-166.163.com (m13-166.163.com [220.181.13.166])
+	by m121-177.yeah.net (Hmail) with ESMTP id BB1CD442146
+	for <31401314@stu.zucc.edu.cn>; Sun,  4 Dec 2016 13:36:56 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=Date:From:Subject:MIME-Version:Message-ID; bh=USHhy
+	8PTcA+c/8TJ9ql/LGnNxFBepQeyYmoKvMjDQc8=; b=H5DA/jJPI46YWqpx5fkUZ
+	vtGDa0AUiZZSFjD/kbEUcdgnI7148EDNXbRVYJoGn8+jokhvdnVqnQvmvBtNn1ZI
+	K7+VqWmh3tQIm32nzfzXs19viTcDrobkYRUD8qFdRKRrzu0QAHL7mLzmLnMb5Pvw
+	tYUm+HUEH5xIunHWNTzIl0=
+Received: from kurisu_l$163.com ( [183.157.162.46] ) by
+ ajax-webmail-wmsvr166 (Coremail) ; Sun, 4 Dec 2016 13:36:55 +0800
+ (GMT+08:00)
+X-Originating-IP: [183.157.162.46]
+Date: Sun, 4 Dec 2016 13:36:55 +0800 (GMT+08:00)
+From: =?UTF-8?B?6b6Z5rOJ?= <kurisu_l@163.com>
+To: =?UTF-8?B?5L2Z5pWs?= <31401314@stu.zucc.edu.cn>
+Subject: =?UTF-8?B?5Zue5aSNOiBHMTbnrqHnkIblkZjnlKjmiLfku6PooajpgoDor7flh70=?=
+X-Priority: 3
+X-Mailer: Coremail Webmail Server Version SP_ntes V3.5 build
+ 20150911(74783.7961) Copyright (c) 2002-2016 www.mailtech.cn 163com
+In-Reply-To: <AGwAbAAyANVMETQv4BnlhKrO.1.1480829676933.Hmail.31401314@stu.zucc.edu.cn>
+References: <AGwAbAAyANVMETQv4BnlhKrO.1.1480829676933.Hmail.31401314@stu.zucc.edu.cn>
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4056_612877615.1480829815381"
+MIME-Version: 1.0
+Message-ID: <709563b4.566.158c855ca55.Coremail.kurisu_l@163.com>
+X-CM-TRANSID:psGowACHjz94q0NYwAsoAA--.34136W
+X-CM-SenderInfo: 5nxux2xxboqiywtou0bp/xtbBDg82RlQG80he6gABst
+X-Coremail-Antispam: 1U5529EdanIXcx71UUUUU7vcSsGvfC2KfnxnUU==
+X-HM-Spam-Status: e1ktWUFJV1koWUFOQzdXWQgYFAkeWUFLVUtXWQkOFx4IWUFZMjUtOjcyP0
+	FLVUtZBg++
+X-HM-Tid: 0a58c855cfdb643fbb1cd442146
+
+------=_Part_4056_612877615.1480829815381
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+5LiL5Y2I55qE6K+d5Y+v5Lul5Y67NTA25om+5ZC05a2m6ZW/77yM5LiN6L+H5ZC05a2m6ZW/5q2j
+5Zyo5b+Z6K665paH77yM5o6o6I2Q5pma5LiKNueCueWQjui/h+adpSjlj6/og73kuYvliY3kvJrm
+nInkuIDnu4TvvIzkvYbmmK/nrYnlvoXml7bpl7TkuI3kvJrotoXov4fljYrlsI/ml7Yp
+------=_Part_4056_612877615.1480829815381
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0ibGluZS1oZWlnaHQ6MS40Ij7kuIvljYjnmoTor53lj6/ku6Xljrs1MDbmib7l
+kLTlrabplb/vvIzkuI3ov4flkLTlrabplb/mraPlnKjlv5norrrmlofvvIzmjqjojZDmmZrkuIo2
+54K55ZCO6L+H5p2lKOWPr+iDveS5i+WJjeS8muacieS4gOe7hO+8jOS9huaYr+etieW+heaXtumX
+tOS4jeS8mui2hei/h+WNiuWwj+aXtik8L2Rpdj4=
+------=_Part_4056_612877615.1480829815381--
+
